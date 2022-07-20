@@ -10,6 +10,9 @@ Using the local git repository and GitHub repository to stage, create, and do ot
 ### Files Used -
 Python File
 Manual.yml
+style.css
+index.html 
+java.js
 
 ### Python Files
 bikeshare.py 
